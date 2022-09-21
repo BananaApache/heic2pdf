@@ -5,6 +5,6 @@ NOTE: This will automatically grab your latest file in your Downloads folder. If
 
 There is also an app that converts the .heic file to a pdf with one click.
 
-• To use the app, unzip the file
-• Then give the app full disk access in System Preferences -> Security & Privacy -> Full Disk Access
-• Now you can add the app to the dock or anywhere that is easily accessible :)
+ - To use the app, unzip the file
+ - Then give the app full disk access in System Preferences -> Security & Privacy -> Full Disk Access
+ - Now you can add the app to the dock or anywhere that is easily accessible :)
